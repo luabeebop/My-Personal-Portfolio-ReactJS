@@ -1,0 +1,70 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Creating intuitive and engaging user interfaces with React, making sure that it is a seamless user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Building robust and scalable server-side applications, specializing in efficient data management and API development."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Designing visually appealing and user-friendly web layouts to captivate users, blending creativity with functionality."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Implementing streamlined workflows and responsive designs using Webflow, delivering high-quality websites with ease."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/pokemon.png",
+      "title": "Who's That Pokemon!",
+      "description": "A web based simple Pokemon guessing game.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/finanz.png",
+      "title": "Finance Tracker",
+      "description": "An ongoing project.",
+      "link": "WIP"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/sheena.png",
+      "description": "Working with Yong was a pleasure. His proficiency in React and dedication to delivering high-quality work consistently is impressive.",
+      "author_name": "Sheena Santos",
+      "author_designation": "Comclark"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/jerc.png",
+      "description": "From concept to deployment, Yong demonstrated promise in web development. His attention to detail and willingness to learn resulted in seamless and engaging applications.",
+      "author_name": "Jeris Puno",
+      "author_designation": "Ethosbytes"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/isaac.png",
+      "description": "I've had the privilege of collaborating with Yong. His problem-solving skills and ability to adapt quickly to new challenges make them an invaluable asset.",
+      "author_name": "John Salavarria",
+      "author_designation": "Dataprise"
+    }
+  ]
+}
